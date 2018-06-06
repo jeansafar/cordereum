@@ -1,2 +1,2 @@
-# privaty
-Dual Mechanism Blockchain Stack
+# cordereum
+Dual Mechanism Blockchain Stack - More description to follow-
